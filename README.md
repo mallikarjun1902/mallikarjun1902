@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mallikarjun1902
+- 👋 Hi, I’m @Mallikarjun Nagoju
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently upskilling to devOps
-- 💞️ I’m seeking job roles on devOps role
+- 🌱 I’m currently upskilling to DevOps
+- 💞️ I’m seeking job roles on DevOps role
 - 📫 Reach me here --->>>  https://www.linkedin.com/in/mallikarjunnagoju/
 
 <!---
